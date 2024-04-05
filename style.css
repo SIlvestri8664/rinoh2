@@ -1,0 +1,73 @@
+h1 {
+color: bisque;
+text-align: center;
+}
+body {
+    background:url(chuttersnap-VpmE7AbDg0A-unsplash.jpg) ;
+}
+
+img{
+    border:rgb(142, 226, 120) 10px solid;
+    }
+
+div {
+    text-align: center;
+ 
+}
+span {
+    color:bisque;
+}
+blockquote {
+    text-align: center;
+    color: bisque;
+}
+h2 {
+color: bisque;
+text-align: center;	
+font-weight: bold;
+}
+p {color: bisque;
+    
+    margin:30px auto;
+    width:600px;
+    background:rgb(142, 226, 120);
+    border:rgb(142, 226, 120);
+    padding: 30px;
+}
+.centro {
+    margin:30px auto;
+    width:600px;
+    background:rgb(142, 226, 120);
+    border:rgb(142, 226, 120) 10px solid;
+    padding: 30px;
+
+}
+ul
+{ color: bisque;
+    margin:30px auto;
+    width:600px;
+    
+    background:rgb(142, 226, 120);
+    border:rgb(142, 226, 120) 10px solid;
+    padding: 30px;
+}
+.video {
+    text-align: center;
+    background: rgb(142, 226, 120);
+    width: 570px;
+    padding: 10px;
+    margin: 0 auto;
+}
+.logo mont blank {
+    text-align: center;  
+}
+.loghi belli {
+    text-align: center; 
+}
+p {
+    text-align: center;
+}
+
+
+
+
